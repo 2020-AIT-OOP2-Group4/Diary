@@ -10,4 +10,4 @@ class k19056DiaryNew(AbstractDiary):
         return "今日はとても疲れた"
 
     def get_author(self):
-        return "Sample"
+        return "Shirai"
